@@ -4,7 +4,7 @@
 
 ## Data Analysis
 - 얼굴 인식 모델 학습 데이터셋 내 존재하는 데이터들의 고개 방향 분석 작업
-- 
+  
    ![HeadPose_pyr](https://github.com/Movon-Algorithm/HPE_Plot/assets/132313547/92726af7-1ddc-4f78-91cd-5b90b1bb59f7)
   
 - 데이터셋 내 이미지 데이터들의 Head Pose 요소(pitch, roll, yaw) 값들이 저장된 *.csv 파일 사용

@@ -6,6 +6,7 @@ file_list = os.listdir(file_path)
 file_list = sorted(file_list)
 
 for file in file_list:
+    print(os.path.join(file_path, file), file)
     with open(os.path.join(file_path, file), "r") as f:
         pdb.set_trace()
         print(f.read())
